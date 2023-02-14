@@ -14,4 +14,4 @@
     % S = 3-------Resampling times
     % Objective relaxation: M-1
     % This code is written by Nan Zheng.
-    % Email: Nanszheng@gmail.com
+    % Email: Nanszheng@163.com
